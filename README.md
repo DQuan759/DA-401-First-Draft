@@ -1,6 +1,6 @@
 <h3>Identifying the potential correlation between computer configuration and mental discomfort using classification algorithms</h3>
 
-<h4>Files<\h4>
+<h4>Files</h4>
 Data: This is the place I put all my data
   Cleaned Comments.csv: This data contains the comments part of my data after data cleaning. The raw comments data is too big to be uploaded.
   raw_sys.csv: This data contains the recommended system reuirements of games frome Steam, which has not been cleaned.
