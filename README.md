@@ -1,2 +1,2 @@
-<h1>Identifying the potential correlation between computer configuration and mental discomfort using classification algorithms (font size 18px)</h1>
+<h3>Identifying the potential correlation between computer configuration and mental discomfort using classification algorithms</h3>
 
