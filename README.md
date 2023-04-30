@@ -1,4 +1,4 @@
-<h3>Identifying the potential correlation between computer configuration and mental discomfort using classification algorithms</h3>
+<h3>Identifying the Potential Correlation between Computer Configuration and Mental Discomfort Using Logistic Regression</h3>
 
 <h4>Files</h4>
 
